@@ -24,6 +24,7 @@
 
 I'm a beginner web developer focused on building real projects instead of just tutorials.  
 I enjoy solving problems, learning new technologies, and improving my design skills.
+I'm a former Electrical Installations student looking to switch over into the IT industry.
 
 - 🔭 Currently working on: small web apps & portfolio projects  
 - 🌱 Currently learning: JavaScript deeper concepts + responsive design  
