@@ -23,9 +23,9 @@
 <!-- ABOUT ME -->
 ## 🙋‍♂️ About Me
 
-I'm a beginner web developer focused on building real projects instead of just tutorials.  
-I enjoy solving problems, learning new technologies, and improving my design skills.  
-I'm a former Electrical Installations student looking to switch over into the IT industry.
+I'm a former Electrical Installations student looking to switch to the IT industry. From a young age 
+I've programmed simple scripts in python, mainly to automate tedious tasks. I'm now focusing on building 
+up a portfolio of open source and free to use projects to display some of my skills whilst also improving on said skills. 
 
 - 🔭 Currently working on: small web apps & portfolio projects  
 - 🌱 Currently learning: JavaScript deeper concepts + responsive design  
