@@ -36,9 +36,11 @@ up a portfolio of open source and free to use projects to display some of my ski
 <!-- PROJECTS -->
 ## 🚀 Projects
 
-### 📝 N/A
-I'm yet to publish a project  
-🔗 https://github.com/N/A
+### 📝 Vaultsy
+Vaultsy is my password security-focused project. There is a website and a browser extension to generate passwords, and a password manager to store them. Below you'll find the vaultsy website, the chrome webstore page for the browser extension, and the repo page for the password manager.
+🔗 https://jbrown-js.github.io/vaultsy/
+🔗 https://chromewebstore.google.com/detail/inbldfepgenmjmogplpdokngnllcfhfo?utm_source=item-share-cb
+🔗 https://github.com/jbrown-js/vaultsy-password-manager
 
 ---
 
