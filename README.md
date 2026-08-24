@@ -23,7 +23,7 @@
 <!-- ABOUT ME -->
 ## 🙋‍♂️ About Me
 
-I'm a former Electrical Installations student looking to switch to the IT industry. From a young age 
+I'm a former Electrical Installations student, and now an IT Support Technician. From a young age 
 I've programmed simple scripts in python, mainly to automate tedious tasks. I'm now focusing on building 
 up a portfolio of open source and free to use projects to display some of my skills whilst also improving on said skills. 
 
