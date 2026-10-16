@@ -1,7 +1,6 @@
 <!-- HERO SECTION -->
 # Hi, I'm James! 👋
 
-🌱 Currently learning: JavaScript  
 🚀 Building projects to improve and grow every day  
 📍 Based in the UK  
 
