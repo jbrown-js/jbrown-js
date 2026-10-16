@@ -27,9 +27,9 @@ I'm a former Electrical Installations student, and now an IT Support Technician.
 I've programmed simple scripts in python, mainly to automate tedious tasks. I'm now focusing on building 
 up a portfolio of open source and free to use projects to display some of my skills whilst also improving on said skills. 
 
-- 🔭 Currently working on: small web apps & portfolio projects  
-- 🌱 Currently learning: JavaScript deeper concepts + responsive design  
-- 🎯 Goal: Become a confident front-end developer  
+- 🔭 Currently working on: No current project
+- 🌱 Currently learning: Electronics
+- 🎯 Goal: In the future I want to become a cloud engineer
 
 ---
 
